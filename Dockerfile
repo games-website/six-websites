@@ -1,12 +1,13 @@
-FROM node:20-alpine
+# Build stage
+FROM node:22-alpine AS build
 
 WORKDIR /app
 
 # Copy package files
 COPY package*.json ./
 
-# Install ALL dependencies (including devDependencies for build)
-RUN npm ci && npm cache clean --force
+# Install all dependencies (including devDependencies for build)
+RUN npm ci
 
 # Copy source code
 COPY . .
@@ -14,16 +15,19 @@ COPY . .
 # Build the application
 RUN npm run build
 
-# Remove devDependencies after build to reduce image size
-# RUN npm prune --production
+# Production stage
+FROM node:22-alpine AS production
 
-# Expose port
+WORKDIR /app
+
+# Install serve to serve static files
+RUN npm install -g serve
+
+# Copy built assets from build stage
+COPY --from=build /app/dist ./dist
+
+# Expose port 3000
 EXPOSE 3000
 
-# Set environment variables
-ENV NODE_ENV=production
-ENV PORT=3000
-ENV HOSTNAME="0.0.0.0"
-
-# Start the application
-CMD ["npm", "start"]
+# Serve the application
+CMD ["serve", "-s", "dist", "-l", "3000"]
