@@ -1,4 +1,6 @@
 import React from 'react';
+import whatsappMock from '../assets/whatsapp_mock.png';
+import bonusPromo from '../assets/bonus_promo.png';
 
 const BonusesSection = () => {
     return (
@@ -14,7 +16,7 @@ const BonusesSection = () => {
                     </p>
                     <div className="mock-phone-container"
                         style={{ height: 'auto', margin: '20px auto', background: 'transparent', border: 'none', boxShadow: 'none' }}>
-                        <img src="./src/assets/whatsapp_mock.png" alt="WhatsApp Support" style={{ maxWidth: '100%', borderRadius: '10px' }} />
+                        <img src={whatsappMock} alt="WhatsApp Support" style={{ maxWidth: '100%', borderRadius: '10px' }} />
                     </div>
                     <button className="btn-outline">
                         <span>💬</span> Chat Now
@@ -34,7 +36,7 @@ const BonusesSection = () => {
                         justifyContent: 'center',
                         overflow: 'hidden'
                     }}>
-                    <img src="./src/assets/bonus_promo.png" alt="400% Bonus" style={{ width: '100%', borderRadius: '8px' }} />
+                    <img src={bonusPromo} alt="400% Bonus" style={{ width: '100%', borderRadius: '8px' }} />
                 </div>
                 <p>
                     Sports365's Best Bonuses and Promotional Offers are designed to give bettors and gamers a
