@@ -1,4 +1,7 @@
 import React from 'react';
+import sportsCricket from '../assets/sports_cricket.png';
+import sportsFootball from '../assets/sports_football.png';
+import sportsTennis from '../assets/sports_tennis.png';
 
 const SportsSection = () => {
     return (
@@ -10,17 +13,17 @@ const SportsSection = () => {
             </p>
             <div style={{ display: 'flex', justifyContent: 'center', gap: '30px', marginTop: '40px', flexWrap: 'wrap' }}>
                 <div style={{ background: 'rgba(255,255,255,0.1)', borderRadius: '16px', width: '300px', overflow: 'hidden', textAlign: 'center', paddingBottom: '20px' }}>
-                    <img src="./src/assets/sports_cricket.png" alt="Cricket" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+                    <img src={sportsCricket} alt="Cricket" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
                     <h3 style={{ color: 'var(--accent-yellow)', marginTop: '15px' }}>Cricket</h3>
                     <p style={{ fontSize: '15px', padding: '0 10px' }}>Match Winner, Toss, Fancy Bets</p>
                 </div>
                 <div style={{ background: 'rgba(255,255,255,0.1)', borderRadius: '16px', width: '300px', overflow: 'hidden', textAlign: 'center', paddingBottom: '20px' }}>
-                    <img src="./src/assets/sports_football.png" alt="Football" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+                    <img src={sportsFootball} alt="Football" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
                     <h3 style={{ color: 'var(--accent-yellow)', marginTop: '15px' }}>Football</h3>
                     <p style={{ fontSize: '15px', padding: '0 10px' }}>Goals, Corners, Cards</p>
                 </div>
                 <div style={{ background: 'rgba(255,255,255,0.1)', borderRadius: '16px', width: '300px', overflow: 'hidden', textAlign: 'center', paddingBottom: '20px' }}>
-                    <img src="./src/assets/sports_tennis.png" alt="Tennis" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+                    <img src={sportsTennis} alt="Tennis" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
                     <h3 style={{ color: 'var(--accent-yellow)', marginTop: '15px' }}>Tennis</h3>
                     <p style={{ fontSize: '15px', padding: '0 10px' }}>Set Winner, Game Handicap</p>
                 </div>
@@ -35,3 +38,4 @@ const SportsSection = () => {
 };
 
 export default SportsSection;
+
