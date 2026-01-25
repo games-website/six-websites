@@ -1,4 +1,7 @@
 import React from 'react';
+import casinoSlots from '../assets/casino_slots.png';
+import casinoRoulette from '../assets/casino_roulette.png';
+import casinoTeenPatti from '../assets/casino_teen_patti.png';
 
 const CasinoSection = () => {
     return (
@@ -10,13 +13,13 @@ const CasinoSection = () => {
             </p>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '15px', marginTop: '20px' }}>
                 <div style={{ height: 'auto', background: 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '8px', border: 'none', overflow: 'hidden' }}>
-                    <img src="./src/assets/casino_slots.png" alt="Slots" style={{ width: '100%', borderRadius: '8px' }} />
+                    <img src={casinoSlots} alt="Slots" style={{ width: '100%', borderRadius: '8px' }} />
                 </div>
                 <div style={{ height: 'auto', background: 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '8px', border: 'none', overflow: 'hidden' }}>
-                    <img src="./src/assets/casino_roulette.png" alt="Roulette" style={{ width: '100%', borderRadius: '8px' }} />
+                    <img src={casinoRoulette} alt="Roulette" style={{ width: '100%', borderRadius: '8px' }} />
                 </div>
                 <div style={{ height: 'auto', background: 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '8px', border: 'none', overflow: 'hidden' }}>
-                    <img src="./src/assets/casino_teen_patti.png" alt="Teen Patti" style={{ width: '100%', borderRadius: '8px' }} />
+                    <img src={casinoTeenPatti} alt="Teen Patti" style={{ width: '100%', borderRadius: '8px' }} />
                 </div>
             </div>
             <div style={{ textAlign: 'center', marginTop: '20px' }}>
