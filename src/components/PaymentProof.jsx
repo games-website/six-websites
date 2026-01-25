@@ -1,4 +1,8 @@
 import React from 'react';
+import paymentProof from '../assets/payment_proof.png';
+import paymentProof2 from '../assets/payment_proof_2.png';
+import paymentProof3 from '../assets/payment_proof_3.png';
+import paymentProof4 from '../assets/payment_proof_4.png';
 
 const PaymentProof = () => {
     return (
@@ -13,16 +17,16 @@ const PaymentProof = () => {
 
             <div className="screenshot-grid">
                 <div className="screenshot-placeholder" style={{ border: 'none', background: 'transparent' }}>
-                    <img src="./src/assets/payment_proof.png" alt="Proof 1" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
+                    <img src={paymentProof} alt="Proof 1" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
                 </div>
                 <div className="screenshot-placeholder" style={{ border: 'none', background: 'transparent' }}>
-                    <img src="./src/assets/payment_proof.png" alt="Proof 2" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
+                    <img src={paymentProof2} alt="Proof 2" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
                 </div>
                 <div className="screenshot-placeholder" style={{ border: 'none', background: 'transparent' }}>
-                    <img src="./src/assets/payment_proof.png" alt="Proof 3" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
+                    <img src={paymentProof3} alt="Proof 3" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
                 </div>
                 <div className="screenshot-placeholder" style={{ border: 'none', background: 'transparent' }}>
-                    <img src="./src/assets/payment_proof.png" alt="Proof 4" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
+                    <img src={paymentProof4} alt="Proof 4" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '8px' }} />
                 </div>
             </div>
             <p style={{ textAlign: 'center', fontSize: '13px', marginTop: '15px', opacity: 0.7 }}>
