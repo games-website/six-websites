@@ -1,4 +1,5 @@
 import React from 'react';
+import appMock from '../assets/app_mock.png';
 
 const IntroSection = () => {
     return (
@@ -17,7 +18,7 @@ const IntroSection = () => {
 
             <div className="mock-phone-container">
                 <div className="mock-phone-label">
-                    <img src="./src/assets/app_mock.png" alt="App Interface Simulation" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '16px' }} />
+                    <img src={appMock} alt="App Interface Simulation" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '16px' }} />
                 </div>
             </div>
 
