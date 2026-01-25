@@ -251,8 +251,7 @@ input[type="password"] {
 .mock-phone-container {
     width: 100%;
     max-width: 350px;
-    height: 400px;
-    background: linear-gradient(180deg, #1e6b44 0%, #165c38 100%);
+    height: fit-content;
     border-radius: 20px;
     margin: 20px auto;
     display: flex;
@@ -260,7 +259,7 @@ input[type="password"] {
     justify-content: center;
     /* border: 4px solid rgba(255, 255, 255, 0.2); */
     position: relative;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.503);
 }
 
 .mock-phone-label {
