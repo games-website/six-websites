@@ -55,6 +55,12 @@ header {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
 
+@media (max-width: 768px) {
+    header {
+        padding: 0px 20px;
+    }
+}
+
 .header-content {
     display: flex;
     justify-content: space-between;
@@ -73,6 +79,49 @@ header {
     align-items: center;
 }
 
+#logo-img {
+    width: auto;
+    height: 40px;
+    object-fit: contain;
+}
+
+@media (max-width: 768px) {
+    #logo-img {
+        height: 50px;
+        width: 50vw;
+
+    }
+}
+
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.get-id-header-btn {
+    background: var(--accent-yellow);
+    color: #000;
+    padding: 5px 16px;
+    border-radius: 999999px;
+    font-weight: 700;
+    font-size: 14px;
+    display: none;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+.get-id-header-btn:hover {
+    background: #fff;
+    transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+    .get-id-header-btn {
+        display: block;
+    }
+}
+
 .desktop-nav {
     display: none;
     gap: 25px;
@@ -80,11 +129,11 @@ header {
     font-size: 16px;
     width: 100%;
     flex-direction: column;
-    padding-top: 20px;
+    padding: 20px 0;
     text-align: center;
 }
 
-.desktop-nav.mobile-visible {
+.desktop-nav.active {
     display: flex;
 }
 
@@ -92,10 +141,46 @@ header {
     color: var(--accent-yellow);
 }
 
-.menu-icon {
-    font-size: 28px;
+.hamburger {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
     cursor: pointer;
+    z-index: 1001;
+}
+
+.hamburger .bar {
     display: block;
+    width: 25px;
+    height: 3px;
+    background-color: var(--accent-yellow);
+    transition: 0.4s;
+    border-radius: 2px;
+}
+
+.hamburger.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+}
+
+.hamburger.active .bar:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+}
+
+@media (min-width: 1024px) {
+    .hamburger {
+        display: none;
+    }
+
+    .desktop-nav {
+        display: flex !important;
+        flex-direction: row;
+        width: auto;
+        padding: 0;
+    }
 }
 
 .hero-section {
@@ -172,10 +257,10 @@ header {
     font-weight: 700;
 }
 
-/* .input-group {
+.input-group {
     margin-bottom: 15px;
-} */
-/* 
+}
+
 input[type="text"],
 input[type="password"] {
     width: 100%;
@@ -186,7 +271,7 @@ input[type="password"] {
     font-size: 15px;
     background: #fff;
     color: #333;
-} */
+}
 
 .btn-primary {
     background-color: var(--accent-yellow);
@@ -252,6 +337,7 @@ input[type="password"] {
     width: 100%;
     max-width: 350px;
     height: fit-content;
+    /* background: linear-gradient(180deg, #1e6b44 0%, #0b341f 100%); */
     border-radius: 20px;
     margin: 20px auto;
     display: flex;
@@ -433,13 +519,79 @@ th {
     width: 35%;
 }
 
-footer {
-    background: #114028;
-    padding: 40px 20px;
-    text-align: center;
-    font-size: 14px;
-    color: rgba(255, 255, 255, 0.6);
+/* Footer Styles */
+.site-footer {
+    background-color: #114028;
+    color: #fff;
+    padding: 60px 0 20px;
 }
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 40px;
+}
+
+@media (min-width: 768px) {
+    .footer-content {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer-content {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.footer-column h3 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 12px;
+}
+
+.footer-column ul li a {
+    color: var(--accent-yellow);
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.3s;
+    font-weight: 500;
+}
+
+.footer-column ul li a:hover {
+    color: #fff;
+    padding-left: 5px;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.phone-icon {
+    font-size: 18px;
+}
+
+.footer-bottom {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+}
+
 
 .whatsapp-float {
     position: fixed;
