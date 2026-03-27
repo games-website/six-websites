@@ -78,7 +78,7 @@ const Footer = () => {
 
 
                 <div class="footer-bottom">
-                    <p>Copyright © 2024 <span style={{ color: '#FFD700', fontWeight: 'bold' }}>Reddyanna Book Official</span>. All
+                    <p>Copyright © 2026 <span style={{ color: '#FFD700', fontWeight: 'bold' }}>Reddyanna Book Official</span>. All
                         rights reserved. Unauthorized reproduction or distribution of any content on this website is
                         prohibited.</p>
                 </div>
