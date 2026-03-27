@@ -4,9 +4,9 @@ const SEOKeywords = () => {
     const keywords = [
         "Mahadev Book", "MahadevBook", "Mahadev Book login", "Mahadev Book online book ID",
         "Mahadev Book Club", "Mahadev Book website", "Mahadev Book app download",
-        "Mahadev Book Club", "Mahadev Book whatsapp group link", "Mahadev Book WhatsApp Number",
+        "mahadev betting app download", "Mahadev Book whatsapp group link", "Mahadev Book WhatsApp Number",
         "Mahadev Book ID", "mahadevbook com", "mahadevbook pro", "Mahadev Book logo","Mahadev Gaming",
-        "Mahadev Book io", "Mahadev Book win", "Mahadev Book cricbet99", "Mahadev Book cricket ID",
+        "Mahadev Book io", "Mahadev Book win", "Mahadev Betting", "Mahadev Book cricket ID",
         "Mahadev Book cricket betting", "Mahadev Book cricket App", "Mahadev Book cricket id login",
         "Mahadev register", "Mahadev Book betting", "Mahadev Book 247", "Mahadev Book book",
         "Mahadev Book online book number", "Mahadev Book login registration",
@@ -16,7 +16,7 @@ const SEOKeywords = () => {
         "Mahadev Book online", "Mahadev Book official", "mahadev book", "mahadev book india",
         "mahadev book online", "mahadev book com", "mahadev book since 2010",
         "mahadevbookofficial", "mahadevbook in", "www mahadev book in", "www mahadev book",
-        "mahadev book online", "betball9 mahadev book", "Mahadevbook", "Mahadevbook login",
+        "mahadev book online", "mahadev betting app download", "Mahadevbook", "Mahadevbook login",
         "Mahadevbook.club", "Mahadevbook.win", "Mahadevbook online", "Mahadev book",
         "Mahadev book Club", "Mahadev Book ID", "Mahadevbook online"
     ];
