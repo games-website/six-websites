@@ -11,7 +11,7 @@ const SEOKeywords = () => {
         "Mahadev register", "Mahadev Book betting", "Mahadev Book 247", "Mahadev Book book",
         "Mahadev Book online book number", "Mahadev Book login registration",
         "Mahadev Book link", "Mahadev Book win", "Mahadev Book", "Mahadev Book Booking",
-        "Mahadev Book ID", "Mahadev Book Club", "Mahadev Book Online","mahadev betting case","mahadev betting app case",
+        "Mahadev Book ID", "Mahadev Book Club", "Mahadev Book Online","mahadev betting case",
         "Mahadev Book Website", "mahadev book 11", "mahadevbook. com", "Mahadevbook pro",
         "Mahadev Book online", "Mahadev Book official", "mahadev book", "mahadev book india",
         "mahadev book online", "mahadev book com", "mahadev book since 2010",
