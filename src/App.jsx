@@ -1,72 +1,59 @@
-import React, { useState } from 'react';
-import Header from './components/Header';
-import HeroSlider from './components/HeroSlider';
-import Marquee from './components/Marquee';
-import Sidebar from './components/Sidebar';
-import LiveCricket from './components/LiveCricket';
-import UpcomingMatches from './components/UpcomingMatches';
-import CasinoGames from './components/CasinoGames';
-import ExclusiveSlots from './components/ExclusiveSlots';
-import RegistrationProcess from './components/RegistrationProcess';
-import CustomerCare from './components/CustomerCare';
-import InfoSections from './components/InfoSections';
-import ExpertCarousel from './components/ExpertCarousel';
-import RightSidebar from './components/RightSidebar';
-import Footer from './components/Footer';
-import MobileNav from './components/MobileNav';
-import FloatingWhatsApp from './components/FloatingWhatsApp';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Layout from './components/Layout';
+import Home from './pages/Home';
+import AboutUs from './pages/AboutUs';
+import AppDownload from './pages/AppDownload';
+import Basketball from './pages/Basketball';
+import BlogPage from './pages/BlogPage';
+import Casino from './pages/Casino';
+import Cricket from './pages/Cricket';
+import Disclaimer from './pages/Disclaimer';
+import FantasySports from './pages/FantasySports';
+import Football from './pages/Football';
+import HorseRaceBetting from './pages/HorseRaceBetting';
+import HowToPlay from './pages/HowToPlay';
+import Kabaddi from './pages/Kabaddi';
+import LiveCricketBetting from './pages/LiveCricketBetting';
+import Platforms from './pages/Platforms';
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import ReferralCode from './pages/ReferralCode';
+import RefundPolicy from './pages/RefundPolicy';
+import Rules from './pages/Rules';
+import RulesRegulations from './pages/RulesRegulations';
+import Services from './pages/Services';
+import Tennis from './pages/Tennis';
 
 function App() {
-  const [activeTab, setActiveTab] = useState('Home');
-
-  const navItems = ['Home', 'In-Play', 'Cricket', 'Casino', 'Live Casino', 'Review', 'Registration', 'Support'];
-
   return (
-    <div className="bg-[#111111] text-white selection:bg-yellow-500 selection:text-black pb-20 md:pb-0 min-h-screen">
-      <Header activeTab={activeTab} setActiveTab={setActiveTab} navItems={navItems} />
-
-      <main className="container mx-auto md:px-4 py-4 max-w-7xl">
-        {/* SECTION 1: Ticker */}
-        <Marquee />
-
-        {/* SECTION 2: Hero Slider */}
-        <HeroSlider />
-
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-6 px-4 md:px-0">
-          {/* LEFT SIDEBAR (Desktop Only) */}
-          <Sidebar />
-
-          {/* CENTER CONTENT */}
-          <div className="lg:col-span-3 space-y-8">
-            <div id="sports"><LiveCricket /></div>
-            <div id="in-play"><UpcomingMatches /></div>
-            <div id="casino"><CasinoGames /></div>
-            <ExclusiveSlots />
-            <div id="register"><RegistrationProcess /></div>
-            <div id="support"><CustomerCare /></div>
-          </div>
-        </div>
-
-        {/* EXPANDED CONTENT GRID */}
-        <div className="mt-16 grid grid-cols-1 md:grid-cols-12 gap-8 px-4 md:px-0">
-          {/* Main Info Column */}
-          <div className="md:col-span-8 space-y-12">
-            <div id="reviews">
-              <InfoSections />
-              <ExpertCarousel />
-            </div>
-          </div>
-
-          {/* Sidebar Info (Desktop) */}
-          <RightSidebar />
-        </div>
-
-      </main>
-
-      <Footer />
-      <MobileNav />
-      <FloatingWhatsApp />
-    </div>
+    <Router>
+      <Layout>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about-us" element={<AboutUs />} />
+          <Route path="/app-download" element={<AppDownload />} />
+          <Route path="/basketball" element={<Basketball />} />
+          <Route path="/blog" element={<BlogPage />} />
+          <Route path="/casino" element={<Casino />} />
+          <Route path="/cricket" element={<Cricket />} />
+          <Route path="/disclaimer" element={<Disclaimer />} />
+          <Route path="/fantasy-sports" element={<FantasySports />} />
+          <Route path="/football" element={<Football />} />
+          <Route path="/horse-race-betting" element={<HorseRaceBetting />} />
+          <Route path="/how-to-play" element={<HowToPlay />} />
+          <Route path="/kabaddi" element={<Kabaddi />} />
+          <Route path="/live-cricket-betting" element={<LiveCricketBetting />} />
+          <Route path="/platforms" element={<Platforms />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/referral-code" element={<ReferralCode />} />
+          <Route path="/refund-policy" element={<RefundPolicy />} />
+          <Route path="/rules" element={<Rules />} />
+          <Route path="/rules-regulations" element={<RulesRegulations />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/tennis" element={<Tennis />} />
+        </Routes>
+      </Layout>
+    </Router>
   );
 }
 
