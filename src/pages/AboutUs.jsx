@@ -101,7 +101,7 @@ export default function AboutUs() {
                         </div>
                         <p className="text-brand-gold font-black mb-4 text-xl">Author – Daniel Smyth</p>
                         <p className="text-sm text-gray-600 leading-relaxed font-medium">
-                            Daniel Smyth – Expert content writer specializing in iGaming, online casino, and sports betting. He creates guides to help players make smart betting decisions.
+                            Daniel – Expert content writer specializing in iGaming, online casino, and sports betting. He creates guides to help players make smart betting decisions.
                         </p>
                     </div>
                 </div>
