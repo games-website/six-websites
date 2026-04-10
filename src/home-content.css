@@ -10,18 +10,20 @@
     padding: 0 20px;
 }
 .info-title {
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 20px;
     text-transform: capitalize;
 }
+
 .info-divider {
     width: 100px;
     height: 3px;
-    background: #ffd700;
+    background: var(--primary-gradient);
     margin: 0 auto 30px auto;
 }
+
 .info-text {
     font-size: 16px;
     line-height: 1.6;
@@ -31,36 +33,39 @@
     text-align-last: center;
 }
 .info-highlight {
-    color: #ffd700;
+    color: var(--primary-color);
     font-weight: 600;
 }
+
 .btn-gold-cta {
-    background: #ffaa00;
-    background: linear-gradient(to bottom, #ffd700, #ffaa00);
-    color: #000;
+    background: var(--primary-gradient);
+    color: #fff;
     font-weight: 700;
     padding: 12px 30px;
     font-size: 18px;
-    border-radius: 5px;
+    border-radius: 50px;
     text-decoration: none;
     display: inline-flex;
     align-items: center;
     gap: 10px;
     margin-bottom: 40px;
-    transition: transform 0.2s;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 10px 20px rgba(16, 185, 129, 0.3);
 }
 .btn-gold-cta:hover {
-    transform: scale(1.05);
-    background: linear-gradient(to bottom, #ffc107, #ff9800);
-    color: #000;
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 15px 30px rgba(16, 185, 129, 0.5);
+    color: #fff;
 }
+
 .sub-title {
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 28px;
     font-weight: 700;
     margin-top: 40px;
     margin-bottom: 20px;
 }
+
 .info-list {
     text-align: left;
     max-width: 900px;
@@ -78,12 +83,13 @@
     padding: 60px 0;
 }
 .features-title {
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 36px;
     font-weight: 800;
     text-align: center;
     margin-bottom: 40px;
 }
+
 .features-table-container {
     max-width: 1000px;
     margin: 0 auto;
@@ -115,9 +121,10 @@
     color: #ddd;
 }
 .highlight-gold-text {
-    color: #ffd700;
+    color: var(--primary-color);
     font-weight: 600;
 }
+
 .icon-row-section {
     background-color: #1a1a1a;
     background: linear-gradient(to bottom, #0f0f0f, #222);
@@ -173,7 +180,7 @@
 }
 .section-header-gold {
     text-align: center;
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 36px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -182,9 +189,10 @@
 .section-underline {
     width: 80px;
     height: 3px;
-    background: #ffd700;
+    background: var(--primary-color);
     margin: 0 auto 50px auto;
 }
+
 .partners-grid-new {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -192,34 +200,38 @@
     padding: 0 20px;
 }
 .partner-card-new {
-    background: #0a0a0a;
-    border: 1px solid #ffd700;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
     border-radius: 15px;
     padding: 30px 20px;
     text-align: center;
     position: relative;
-    transition: transform 0.3s;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
 }
 .partner-card-new:hover {
     transform: translateY(-10px);
-    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.15);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    border-color: var(--primary-color);
 }
+
 .partner-logo-text {
     font-size: 28px;
     font-weight: 800;
     margin-bottom: 10px;
-    background: linear-gradient(to right, #ffd700, #ffa500);
+    background: var(--primary-gradient);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     text-transform: uppercase;
 }
 .partner-name {
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 20px;
     margin-bottom: 20px;
     font-weight: 600;
 }
+
 .partner-features {
     list-style: none;
     padding: 0;
@@ -235,10 +247,11 @@
 }
 .partner-features li::before {
     content: '✓';
-    color: #ffd700;
+    color: var(--primary-color);
     margin-right: 10px;
     font-weight: bold;
 }
+
 .payment-row {
     display: flex;
     justify-content: center;
@@ -254,17 +267,18 @@
     color: #888;
 }
 .bonus-text {
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 14px;
     margin-bottom: 5px;
 }
 .bonus-highlight {
     font-size: 18px;
     font-weight: 700;
-    color: #ffd700;
+    color: var(--primary-color);
     margin-bottom: 20px;
     display: block;
 }
+
 .demo-id-info {
     font-size: 13px;
     color: #aaa;
@@ -272,8 +286,8 @@
     line-height: 1.6;
 }
 .btn-get-id {
-    background: #ffd700;
-    color: #000;
+    background: var(--primary-gradient);
+    color: #fff;
     font-weight: 700;
     padding: 10px 30px;
     border-radius: 5px;
@@ -281,6 +295,7 @@
     display: inline-block;
     text-transform: uppercase;
 }
+
 .videos-section {
     background-color: #050505;
     padding: 60px 0;
@@ -306,7 +321,7 @@
     overflow: hidden;
 }
 .video-placeholder:hover {
-    border-color: #ffd700;
+    border-color: var(--primary-color);
 }
 .video-placeholder::before {
     content: '▶';
@@ -339,11 +354,12 @@
 }
 .why-choose-title {
     font-size: 32px;
-    color: #ffd700;
+    color: var(--primary-color);
     margin-bottom: 30px;
 }
+
 .why-sub-head {
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 20px;
     margin-top: 30px;
     margin-bottom: 10px;
@@ -407,11 +423,12 @@
 }
 .promo-title {
     font-size: 36px;
-    color: #ffd700;
+    color: var(--secondary-color);
     font-weight: 700;
     margin-bottom: 20px;
     line-height: 1.2;
 }
+
 .promo-desc {
     font-size: 16px;
     color: #ccc;
@@ -432,27 +449,28 @@
 }
 .promo-list li::before {
     content: '•';
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 20px;
     position: absolute;
     left: 0;
     top: -5px;
 }
 .btn-promo {
-    background: #ffd700;
-    color: #000;
+    background: var(--orange-gradient);
+    color: #fff;
     font-weight: 700;
     font-size: 18px;
     padding: 15px 40px;
-    border-radius: 5px;
+    border-radius: 50px;
     text-decoration: none;
     display: inline-block;
-    transition: transform 0.2s;
+    transition: all 0.3s ease;
 }
 .btn-promo:hover {
-    transform: scale(1.05);
-    background: #ffc107;
+    transform: translateY(-3px);
+    box-shadow: 0 15px 30px rgba(249, 115, 22, 0.4);
 }
+
 .contact-highlight {
     color: #25d366;
     font-weight: 700;
@@ -469,7 +487,7 @@
     text-align: left;
 }
 .ipl-title {
-    color: #ffd700;
+    color: var(--primary-color);
     font-size: 32px;
     margin-bottom: 30px;
     text-align: center;
@@ -615,3 +633,4 @@
     font-weight: 700;
     color: #000;
 }
+
