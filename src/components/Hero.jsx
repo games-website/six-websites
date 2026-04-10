@@ -1,20 +1,20 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Download } from 'lucide-react';
-import banner from '../assets/images/logo.png';
+import banner from '../assets/images/banner.jpg.webp';
 
 export default function Hero() {
     return (
         <section className="relative bg-white text-gray-900 py-20 lg:py-32 overflow-hidden">
-            
-            <div className="absolute inset-0 bg-gradient-to-r from-white via-white/80 to-transparent z-10"></div>
+
+            <div className="absolute inset-0 bg-gradient-to-r from-white via-white/100 to-transparent z-10"></div>
             <div className="absolute inset-0 z-0">
-                <img src={banner} alt="Goldplay Banner" className="w-full h-full object-cover opacity-10" />
+                <img src={banner} alt="Goldplay Banner" className="w-full h-full object-cover opacity-9" />
             </div>
 
             <div className="container mx-auto px-4 relative z-20">
                 <div className="flex flex-col lg:flex-row items-center gap-16">
-                    
+
                     <div className="flex-1 max-w-2xl text-center lg:text-left">
                         <h1 className="text-4xl md:text-6xl font-black mb-6 leading-tight uppercase tracking-tighter">
                             India's Most Trusted <br />
@@ -52,7 +52,7 @@ export default function Hero() {
                         </div>
                     </div>
 
-                    
+
                     <div className="flex-1 w-full max-w-xl">
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                             {[
