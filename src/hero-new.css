@@ -1,9 +1,11 @@
 .banner-section * {
     box-sizing: border-box;
 }
+
 .banner-section {
     width: 100vw;
     height: 100vh;
+    margin-top: -5vh;
     background: linear-gradient(135deg, #020617 0%, #064e3b 50%, #10b981 100%);
     position: relative;
     overflow: hidden;
@@ -21,6 +23,7 @@
     height: 100%;
     padding: 0 20px;
 }
+
 .character-container {
     align-self: flex-end;
     z-index: 1;
@@ -29,12 +32,14 @@
     flex-shrink: 0;
     margin-bottom: 13vh;
 }
+
 .character-img {
     width: 100%;
     height: 100%;
     display: block;
     object-fit: cover;
 }
+
 .right-column {
     display: flex;
     flex-direction: column;
@@ -45,15 +50,18 @@
     padding: 0px 10vw 50px 0px;
     z-index: 2;
 }
+
 .contact-text {
     margin-bottom: 30px;
 }
+
 .contact-text h2 {
     font-size: 2.8rem;
     color: #ffffff;
     margin-bottom: 15px;
     margin-top: 0;
 }
+
 .contact-text span {
     color: var(--primary-color);
     font-weight: 700;
@@ -63,11 +71,13 @@
     font-size: 1.2rem;
     color: #eaeaea;
 }
+
 .games-container {
     display: flex;
     gap: 15px;
     justify-content: flex-end;
 }
+
 .game-card {
     background: rgba(255, 255, 255, 0.9);
     border-radius: 12px;
@@ -76,14 +86,17 @@
     transition: transform 0.3s ease;
     width: 160px;
 }
+
 .game-card:hover {
     transform: translateY(-5px);
 }
+
 .game-card img {
     width: 100%;
     height: 140px;
     object-fit: cover;
 }
+
 .game-title {
     background: linear-gradient(135deg, var(--bg-surface) 0%, var(--primary-color) 100%);
     color: #fff;
@@ -112,6 +125,7 @@
     border: 1px solid var(--primary-color);
     z-index: 10;
 }
+
 .explore-banner-floating span {
     color: var(--primary-color);
 }
@@ -121,11 +135,13 @@
     padding: 40px 20px;
     background-color: #f4f7f6;
 }
+
 .heading-section h1 {
     font-size: 2.5rem;
     color: #2c3e50;
     margin: 0;
 }
+
 .heading-section h1 span {
     color: var(--primary-color);
     position: relative;
@@ -140,6 +156,7 @@
         display: block;
         padding-bottom: 80px;
     }
+
     .banner-container-flex {
         flex-direction: column;
         justify-content: flex-start;
@@ -147,9 +164,11 @@
         padding-top: 40px;
         height: auto;
     }
+
     .right-column {
         display: contents;
     }
+
     .contact-text {
         order: 1;
         text-align: center;
@@ -157,6 +176,7 @@
         padding: 0 10px;
         margin-bottom: 30px;
     }
+
     .games-container {
         order: 2;
         width: 100%;
@@ -164,9 +184,11 @@
         margin-bottom: 30px;
         flex-wrap: wrap;
     }
+
     .contact-text h2 {
         font-size: 1.6rem;
     }
+
     .character-container {
         order: 3;
         align-self: center;
@@ -174,9 +196,11 @@
         height: 60vh;
         margin-top: auto;
     }
+
     .character-img {
         margin-top: -8vh;
     }
+
     .explore-banner-floating {
         bottom: 10px;
         font-size: 0.7em;
@@ -184,13 +208,16 @@
         height: fit-content;
     }
 }
+
 @media (max-width: 600px) {
     .game-card {
         width: 100px;
     }
+
     .game-card img {
         height: 90px;
     }
+
     .game-title {
         font-size: 0.8rem;
     }
