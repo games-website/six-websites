@@ -50,7 +50,7 @@ const Sports = () => {
                     </Link>
 
                     <Link to="/live-cricket-betting" class="game-card reveal">
-                        <img src="/images/live_cricket_hero_new.jpg" alt="Live Cricket" />
+                        <img src="/images/myleasers_blog_cricket.png" alt="Live Cricket" />
                         <div class="game-content">
                             <h3>Live Cricket Betting</h3>
                             <p>Get ID & Bet on Live T20, IPL, and ODIs in real-time.</p>
