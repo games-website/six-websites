@@ -9,7 +9,7 @@ const Promotions = () => {
                     <img src={promoBanner} alt="Promotions" style={{ width: '100%', display: 'block' }} />
                 </div>
                 <p style={{ marginTop: '20px', fontSize: '18px' }}>Check out our latest offers and bonuses. Claim your rewards today!</p>
-                <a href="https://wa.me/12397991318?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+                <a href="https://wa.me/6289183063?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
                     <button className="btn-primary" style={{ marginTop: '20px' }}>Claim Now</button>
                 </a>
             </div>

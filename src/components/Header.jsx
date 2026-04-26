@@ -11,7 +11,7 @@ const Header = () => {
                 </Link>
 
                 <div className="header-actions">
-                    <a id='get-id-nav-btn' href="https://wa.me/12397991318?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="get-id-header-btn">
+                    <a id='get-id-nav-btn' href="https://wa.me/6289183063?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="get-id-header-btn">
                         Get ID
                     </a>
                     <div className={`hamburger ${mobileMenuOpen ? 'active' : ''}`} onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>

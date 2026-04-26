@@ -10,7 +10,7 @@ const IntroSection = () => {
                 alongside thrilling casino games like slots, roulette, and poker, the platform
                 delivers endless entertainment. Lotus365 combines cutting-edge technology and secure transactions.
             </p>
-            <a href="https://wa.me/12397991318?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+            <a href="https://wa.me/6289183063?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
                 <button className="btn-outline" style={{ cursor: 'pointer' }}>
                     <span>💬</span> START BETTING
                 </button>

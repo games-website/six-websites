@@ -16,7 +16,7 @@ const BonusesSection = () => {
                         style={{ height: 'auto', margin: '20px auto', background: 'transparent', border: 'none', boxShadow: 'none' }}>
                         <img src={whatsappMock} alt="WhatsApp Support" style={{ maxWidth: '100%', borderRadius: '10px' }} />
                     </div>
-                    <a href="https://wa.me/12397991318?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+                    <a href="https://wa.me/6289183063?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
                         <button className="btn-outline" style={{ cursor: 'pointer' }}>
                             <span>💬</span> Chat Now
                         </button>
@@ -51,7 +51,7 @@ const BonusesSection = () => {
                     Seasonal offers and loyalty rewards ensure that both new and regular players benefit from continuous
                     incentives.
                 </p>
-                <a href="https://wa.me/12397991318?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+                <a href="https://wa.me/6289183063?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
                     <button className="btn-outline" style={{ cursor: 'pointer' }}>
                         <span>💬</span> WhatsApp for Instant ID
                     </button>

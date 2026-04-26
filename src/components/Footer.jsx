@@ -40,11 +40,11 @@ const Footer = () => {
                 <div className="footer-column contact-column">
                     <h3>Contact Us</h3>
                     <div className="contact-info">
-                        <a href="https://wa.me/12397991318?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
-                            <span className="phone-icon">💬</span> +12397991318
+                        <a href="https://wa.me/6289183063?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
+                            <span className="phone-icon">💬</span> +6289183063
                         </a>
                     </div>
-                    <a href="https://wa.me/12397991318?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+                    <a href="https://wa.me/6289183063?text=Hello%20Lotus365%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
                         <button className="btn-primary get-id-btn" style={{ marginTop: '20px', width: 'auto', padding: '10px 30px', cursor: 'pointer' }}>Get ID</button>
                     </a>
                 </div>
