@@ -47,11 +47,11 @@ const Footer = () => {
 
                     <div class="footer-contact">
                         <h3>Contact Us</h3>
-                        <p>📞 Phone: <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>+12397991318</a></p>
+                        <p>📞 Phone: <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>+6289183063</a></p>
 
                         {}
                         <div style={{ marginTop: '20px' }}>
-                            <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-gold" style={{
+                            <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-gold" style={{
                                 display: 'inline-block',
                                 padding: '10px 20px',
                                 borderRadius: '5px',

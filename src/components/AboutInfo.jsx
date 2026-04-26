@@ -19,7 +19,7 @@ const AboutInfo = () => {
                             technological aspects and a wide variety of betting opportunities are what make our platform
                             relevant to each type of player.</p>
 
-                        <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-black-gold" style={{ marginTop: '30px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-black-gold" style={{ marginTop: '30px' }}>
                             <i class="fab fa-whatsapp"></i> Get Your Reddyanna Book ID
                         </a>
                     </div>
@@ -73,7 +73,7 @@ const AboutInfo = () => {
                     </div>
 
                     <div class="center-btn mt-40" style={{ textAlign: 'center' }}>
-                        <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-glow"><i class="fab fa-whatsapp"></i> Contact Us</a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-glow"><i class="fab fa-whatsapp"></i> Contact Us</a>
                     </div>
                 </div>
             </div>

@@ -162,7 +162,7 @@ const AboutUs = () => {
                     <div style={infoCardStyle}>
                         <h3 style={{ ...sectionTitleStyle, borderBottom: '1px solid #444', paddingBottom: '15px', width: '100%', marginBottom: '20px' }}>Contact Details</h3>
                         <div style={{ color: '#fff', fontSize: '16px', lineHeight: '2' }}>
-                            <p>Reddy Anna WhatsApp Number – +12397991318</p>
+                            <p>Reddy Anna WhatsApp Number – +6289183063</p>
                         </div>
                     </div>
 

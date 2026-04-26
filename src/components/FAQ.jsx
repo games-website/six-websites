@@ -10,7 +10,7 @@ const FAQ = () => {
         },
         {
             question: "How do I register on Reddyanna?",
-            answer: "Registration is simple. Click on the 'Get ID' button contact us on WhatsApp at +12397991318. Our support team will help you create your account instantly."
+            answer: "Registration is simple. Click on the 'Get ID' button contact us on WhatsApp at +6289183063. Our support team will help you create your account instantly."
         },
         {
             question: "Is it secure playing on Reddyanna?",
@@ -34,7 +34,7 @@ const FAQ = () => {
         },
         {
             question: "How do I get in touch with customer service?",
-            answer: "Our customer support is available 24/7. You can contact us via WhatsApp at +12397991318 or use the Live Chat feature on our website."
+            answer: "Our customer support is available 24/7. You can contact us via WhatsApp at +6289183063 or use the Live Chat feature on our website."
         },
         {
             question: "Are there age restrictions to playing on Reddyanna?",
@@ -58,7 +58,7 @@ const FAQ = () => {
         },
         {
             question: "What is the WhatsApp number for Reddyanna book?",
-            answer: "The official WhatsApp number for Reddyanna Book is +12397991318."
+            answer: "The official WhatsApp number for Reddyanna Book is +6289183063."
         }
     ];
 

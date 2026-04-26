@@ -30,7 +30,7 @@ const Header = () => {
                         <img id='logo-img' src="/images/reddy_anna_header_logo.jpg" alt="Reddy Anna Logo" />
                     </Link>
                 </div>
-                <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="mobile-header-btn btn-gold">GET ID</a>
+                <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="mobile-header-btn btn-gold">GET ID</a>
                 <button
                     class="hamburger-menu"
                     aria-label="Toggle Navigation"
@@ -70,7 +70,7 @@ const Header = () => {
                         </>
                     )}
                 </nav>
-                <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="desktop-only-btn btn-gold">GET ID</a>
+                <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="desktop-only-btn btn-gold">GET ID</a>
             </div>
         </header >
     );

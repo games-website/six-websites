@@ -43,7 +43,7 @@ const HorseRaceBetting = () => {
                             We understand that horse race betting requires accuracy and trust. That’s why our platform is built to deliver real-time race updates, competitive odds, and a transparent betting environment. Whether you are a beginner or an experienced bettor, <strong>ReddyAnna Horse Race</strong> betting offers a simple and enjoyable experience from start to finish.
                         </p>
 
-                        <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                             background: 'linear-gradient(to right, #1e90ff, #00bfff)',
                             color: '#fff',
                             padding: '15px 30px',

@@ -93,7 +93,7 @@ const AppDownload = () => {
                     <br /><br />
                     With the official Reddy Anna App, you can enjoy real-time matches, smooth gameplay, instant deposits, and 24/7 support — all from your mobile phone. Whether you’re a casual player or a professional punter, this app is designed to deliver the most convenient and rewarding gaming experience in India.
                 </p>
-                <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={downloadButtonStyle}>
+                <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={downloadButtonStyle}>
                     DOWNLOAD REDDY ANNA APP
                 </a>
             </div>
@@ -193,7 +193,7 @@ const AppDownload = () => {
                             <p style={{ color: '#ccc', lineHeight: '1.6', marginBottom: '30px' }}>
                                 Follow your favorite tournaments like IPL, T20, Test Matches, and World Cups. Bet live, track performance, and enjoy real-time odds — all in one place.
                             </p>
-                            <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
+                            <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
                         </div>
                         {}
                         <div style={gameCardStyle}>
@@ -204,7 +204,7 @@ const AppDownload = () => {
                             <p style={{ color: '#ccc', lineHeight: '1.6', marginBottom: '30px' }}>
                                 From Premier League to La Liga and local matches, the Reddy Anna App brings global football betting directly to your screen with fast updates and fair odds.
                             </p>
-                            <a href="https://wa.me/12397991318" target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
+                            <a href="https://wa.me/6289183063" target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
                         </div>
                         {}
                         <div style={gameCardStyle}>
@@ -215,7 +215,7 @@ const AppDownload = () => {
                             <p style={{ color: '#ccc', lineHeight: '1.6', marginBottom: '30px' }}>
                                 Experience real-dealer casino games in HD. Choose from Roulette, Baccarat, Blackjack, and Teen Patti for a true casino experience from the comfort of home.
                             </p>
-                            <a href="https://wa.me/12397991318" target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
+                            <a href="https://wa.me/6289183063" target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
                         </div>
                         {}
                         <div style={gameCardStyle}>
@@ -226,7 +226,7 @@ const AppDownload = () => {
                             <p style={{ color: '#ccc', lineHeight: '1.6', marginBottom: '30px' }}>
                                 Join skill-based tables and challenge real players. Play to win, improve your strategy, and enjoy smooth gameplay 24/7.
                             </p>
-                            <a href="https://wa.me/12397991318" target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
+                            <a href="https://wa.me/6289183063" target="_blank" rel="noopener noreferrer" style={{ ...downloadButtonStyle, background: '#00e5ff', color: '#000', width: '100%' }}>DOWNLOAD & PLAY</a>
                         </div>
                     </div>
                 </div>

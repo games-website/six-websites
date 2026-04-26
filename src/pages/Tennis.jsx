@@ -41,7 +41,7 @@ const Tennis = () => {
                             Welcome to <span style={{ color: '#FFD700' }}>Reddy Anna</span>, your ultimate destination for live tennis betting in India. With our platform, you can enjoy real-time <strong>Reddy Anna Tennis</strong> betting and access all major tennis tournaments, including Wimbledon, US Open, French Open, and Australian Open. Whether you’re a beginner or an experienced bettor, our platform ensures a smooth and secure experience for every user.
                         </p>
 
-                        <a href="https://wa.me/12397991318?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Reddyanna%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                             background: 'linear-gradient(to right, #1e90ff, #00bfff)',
                             color: '#fff',
                             padding: '15px 30px',
