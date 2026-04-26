@@ -70,7 +70,7 @@ const Disclaimer = () => {
                         <p style={{ color: '#aaa', fontSize: '18px', marginBottom: '40px', maxWidth: '700px', margin: '0 auto 40px' }}>
                             We encourage safe and responsible gaming. If you feel your betting habits are becoming problematic, please seek help and use our self-exclusion tools.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '18px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '18px' }}>
                             <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> GET YOUR ID SECURELY
                         </a>
                     </div>

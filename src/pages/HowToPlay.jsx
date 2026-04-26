@@ -134,7 +134,7 @@ const HowToPlay = () => {
                         <p style={{ color: '#888', fontSize: '18px', marginBottom: '45px', maxWidth: '600px', margin: '0 auto 45px' }}>
                             Our experts are available around the clock to help you with your account, deposits, or any technical queries.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '18px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '18px' }}>
                             <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> CHAT WITH SUPPORT NOW
                         </a>
                     </div>

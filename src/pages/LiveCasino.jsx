@@ -61,7 +61,7 @@ const LiveCasino = () => {
                         <p style={{ fontSize: '20px', color: '#aaa', maxWidth: '800px', margin: '0 auto 40px', lineHeight: '1.7' }}>
                             Step into the luxury of real-time casino action. <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay</span> brings you the world's most popular tables with professional live dealers.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
                             <i className="fas fa-dice" style={{ marginRight: '10px' }}></i> ENTER THE CASINO
                         </a>
                     </div>
@@ -131,7 +131,7 @@ const LiveCasino = () => {
                         }}>
                              <h2 style={{ fontSize: 'clamp(28px, 6vw, 42px)', fontWeight: '900', marginBottom: '25px', textTransform: 'uppercase' }}>Ready to Take the Seat?</h2>
                              <p style={{ fontSize: '20px', fontWeight: '700', marginBottom: '40px', opacity: 0.8 }}>Get your ID in 2 minutes and join world-class tables now.</p>
-                             <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ 
+                             <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ 
                                 background: '#000', 
                                 color: '#fff', 
                                 padding: '20px 60px', 

@@ -50,7 +50,7 @@ const TennisBetting = () => {
                         <p style={{ fontSize: '20px', color: '#aaa', maxWidth: '800px', margin: '0 auto 40px', lineHeight: '1.6' }}>
                             Bet on Grand Slams, ATP, and WTA tournaments with the best odds in the industry. <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay</span> is your premier destination for tennis exchange.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
                             <i className="fas fa-table-tennis" style={{ marginRight: '10px' }}></i> START WINNING NOW
                         </a>
                     </div>
@@ -130,7 +130,7 @@ const TennisBetting = () => {
                                 <p style={{ color: '#888', fontSize: '18px', marginBottom: '45px', lineHeight: '1.7' }}>
                                     At Fairplay, we prioritize your well-being. Set your limits and bet responsibly while enjoying the game you love.
                                 </p>
-                                <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '20px' }}>
+                                <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '20px' }}>
                                     <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> JOIN MADRASCAFE NOW
                                 </a>
                             </div>

@@ -46,7 +46,7 @@ const Home = () => {
                     <p className="info-text">
                         Is it accurate to say that you are on the quest for the top provider of online cricket betting IDs, online book id and cricket book id? Well, your search ends with <span className="info-highlight">Fairplay</span>! We provide a hassle-free and safe means of acquiring your online cricket ID and online book id and exploiting the betting opportunities on the matches you love. With Fairplay, you will enjoy special betting segments, better betting odds, and a secure and easy to use interface that enhances your love for cricket betting. Now, let’s explore the reasons why Fairplay is the best place online for those people who are in search of <span className="info-highlight">the best online cricket betting ID</span> or cricket book id.
                     </p>
-                    <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-gold-cta"><i className="fab fa-whatsapp"></i> Get Your Cricket ID Now</a>
+                    <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-gold-cta"><i className="fab fa-whatsapp"></i> Get Your Cricket ID Now</a>
                     <h2 className="sub-title">Play with India’s Most Trusted Online Cricket ID</h2>
                     <p className="info-text">
                         Play with India is owned by the most reliable <span className="info-highlight">Online Cricket ID</span> and brings your love of sport and casino games to the next level. Fairplay is not just any online cricket platform but an opportunity to access 750+ casino and live games, and has unlimited playing, enjoying, and winning possibilities.
@@ -157,7 +157,7 @@ const Home = () => {
                                 User ID: Fairplay<br />
                                 Pass: Money1234
                             </div>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
                         </div>
                         <div className="partner-card-new">
                             <h3 className="partner-logo-text">SALASAR</h3>
@@ -179,7 +179,7 @@ const Home = () => {
                                 User ID: Fairplay<br />
                                 Pass: Money1234
                             </div>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
                         </div>
                         <div className="partner-card-new">
                             <h3 className="partner-logo-text">ROLLS</h3>
@@ -201,7 +201,7 @@ const Home = () => {
                                 User ID: Fairplay<br />
                                 Pass: Money1234
                             </div>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
                         </div>
                         <div className="partner-card-new">
                             <h3 className="partner-logo-text">TIGEREXCH</h3>
@@ -223,7 +223,7 @@ const Home = () => {
                                 User ID: Fairplay<br />
                                 Pass: Money1234
                             </div>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-get-id">Get ID</a>
                         </div>
                     </div>
                 </div>
@@ -301,7 +301,7 @@ const Home = () => {
                             <li>Fairplay Online Cricket ID WhatsApp Number (India): +1 (640) 239-6837</li>
                         </ul>
                         <p className="promo-desc">Click Here to Start Chatting Now</p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-promo">Popular Betting ID</a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-promo">Popular Betting ID</a>
                     </div>
                     <div className="promo-image-col animate slide-left">
                         <img
@@ -333,7 +333,7 @@ const Home = () => {
                         <p className="promo-desc">
                             These promotions allow you to familiarize yourself with our site and assist you in minimizing your betting potential.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-promo">Get Online Betting ID</a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-promo">Get Online Betting ID</a>
                     </div>
                     <div className="promo-image-col animate slide-right">
                         <img
@@ -677,7 +677,7 @@ const Home = () => {
                         <p style={{ color: '#ccc', fontSize: '14px' }}>From UPI to e-wallets and bank transfers, Fairplay ensures
                             all
                             the safe and encrypted mechanisms in both deposits and withdrawals.</p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ marginTop: '30px' }}>CONTACT US <i className="fab fa-whatsapp"></i></a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ marginTop: '30px' }}>CONTACT US <i className="fab fa-whatsapp"></i></a>
                     </div>
                     <div className="split-image">
                         <img src="/images/why-trust-us.png" alt="Why Trust Moneydaddy" style={{ width: '100%', borderRadius: '20px' }} />
@@ -695,7 +695,7 @@ const Home = () => {
                             <li>Fund your betting account.</li>
                             <li>Place stakes on the cricket games you love!</li>
                         </ol>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ marginTop: '20px' }}>Get Online Cricket ID</a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ marginTop: '20px' }}>Get Online Cricket ID</a>
                     </div>
                     <div className="split-image">
                         <img src="/images/how-to-get-id.png" alt="How to Get ID" style={{ width: '100%', borderRadius: '20px' }} />
@@ -713,7 +713,7 @@ const Home = () => {
                             <p style={{ fontSize: '18px', marginBottom: '30px', color: '#555' }}>Now download the Fairplay app and
                                 get
                                 easier, quicker access to your winnings!</p>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary"
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary"
                                 style={{ background: 'var(--primary-color)', color: '#000', display: 'inline-flex', alignItems: 'center', gap: '10px' }}>
                                 <i className="fab fa-whatsapp"></i> Download The App
                             </a>
@@ -770,7 +770,7 @@ const Home = () => {
                         the <strong style={{ color: '#ab2e0bff' }}>best online cricket betting ID</strong> or cricket book id.
                     </p>
                     <div style={{ textAlign: 'center', marginBottom: '60px' }}>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '15px 40px', fontSize: '20px' }}>Get Your Cricket ID Now</a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '15px 40px', fontSize: '20px' }}>Get Your Cricket ID Now</a>
                     </div>
                     <h2 style={{ color: 'var(--primary-color)', textAlign: 'center', marginBottom: '30px' }}>Play with India’s Most Trusted Online
                         Cricket ID</h2>
@@ -829,7 +829,7 @@ const Home = () => {
                                 technological aspects and a wide variety of betting opportunities are what make our platform
                                 relevant to each type of player.
                             </p>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary"
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary"
                                 style={{ background: '#000', color: '#fff', border: '1px solid var(--primary-color)', padding: '15px 30px' }}>
                                 <i className="fab fa-whatsapp"></i> Get Your Fairplay ID
                             </a>
@@ -867,7 +867,7 @@ const Home = () => {
                             <div className="gamb-blog-content">
                                 <h3>Online Sports Betting Trends 2026 in India with Fairplay</h3>
                                 <p className="gamb-blog-meta">January 3, 2026
-                                    <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="gamb-read-more">Read More »</a>
+                                    <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="gamb-read-more">Read More »</a>
                                 </p>
                             </div>
                         </div>
@@ -878,7 +878,7 @@ const Home = () => {
                             <div className="gamb-blog-content">
                                 <h3>How Cricket Match Conditions Affect Live Odds on Fairplay</h3>
                                 <p className="gamb-blog-meta">January 2, 2026
-                                    <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="gamb-read-more">Read More »</a>
+                                    <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="gamb-read-more">Read More »</a>
                                 </p>
                             </div>
                         </div>
@@ -889,7 +889,7 @@ const Home = () => {
                             <div className="gamb-blog-content">
                                 <h3>NBA Playoffs 2026 Key Moments Covered on Fairplay</h3>
                                 <p className="gamb-blog-meta">January 1, 2026
-                                    <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="gamb-read-more">Read More »</a>
+                                    <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="gamb-read-more">Read More »</a>
                                 </p>
                             </div>
                         </div>
@@ -1085,7 +1085,7 @@ const Home = () => {
                     <h2 style={{ color: '#000' }}>Ready to Win Big?</h2>
                     <p style={{ color: '#000', fontSize: '20px', marginBottom: '30px' }}>Get your Trusted Betting ID today and enjoy
                         the thrill of sports betting.</p>
-                    <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-secondary" style={{ margin: '0 auto', borderColor: '#000', color: '#000' }}>GET ID NOW</a>
+                    <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-secondary" style={{ margin: '0 auto', borderColor: '#000', color: '#000' }}>GET ID NOW</a>
                 </div>
             </section>
         </>

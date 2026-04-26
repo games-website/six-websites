@@ -102,7 +102,7 @@ const Rules = () => {
                         <p style={{ color: '#888', fontSize: '16px' }}>
                             Betting should be fun. Never bet more than you can afford to lose. For support or queries about our rules, please contact our 24/7 support team.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ marginTop: '30px', padding: '15px 40px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ marginTop: '30px', padding: '15px 40px' }}>
                             CHAT WITH US
                         </a>
                     </div>

@@ -66,7 +66,7 @@ const Contact = () => {
                             </div>
 
                             <div style={{ marginTop: '50px' }}>
-                                 <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ width: '100%', textAlign: 'center', padding: '20px', borderRadius: '50px', fontSize: '18px', display: 'block' }}>
+                                 <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ width: '100%', textAlign: 'center', padding: '20px', borderRadius: '50px', fontSize: '18px', display: 'block' }}>
                                     <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> CHAT ON WHATSAPP
                                 </a>
                             </div>

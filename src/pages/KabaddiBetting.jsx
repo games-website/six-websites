@@ -50,7 +50,7 @@ const KabaddiBetting = () => {
                         <p style={{ fontSize: '20px', color: '#aaa', maxWidth: '800px', margin: '0 auto 40px' }}>
                             Passionate about Kabaddi? <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay</span> covers Pro Kabaddi League (PKL) and international matches with real-time updates.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
                             <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> GET ID & START NOW
                         </a>
                     </div>
@@ -172,7 +172,7 @@ const KabaddiBetting = () => {
                             <p style={{ fontSize: '20px', fontWeight: '700', marginBottom: '45px', opacity: 0.9 }}>
                                 Get your <span style={{ fontWeight: '900' }}>Fairplay ID</span> today and dominate the Kabaddi betting arena!
                             </p>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ 
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ 
                                 background: '#000', 
                                 color: '#fff', 
                                 padding: '20px 60px', 

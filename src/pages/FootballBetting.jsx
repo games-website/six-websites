@@ -52,7 +52,7 @@ const FootballBetting = () => {
                         <p style={{ fontSize: '20px', color: '#aaa', maxWidth: '800px', margin: '0 auto 40px', lineHeight: '1.6' }}>
                             Passionate about Football? <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay</span> covers Premier League, La Liga, UCL, and ISL with competitive odds and real-time updates.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
                             <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> START BETTING NOW
                         </a>
                     </div>
@@ -139,7 +139,7 @@ const FootballBetting = () => {
                             <p style={{ color: '#aaa', fontSize: '18px', marginBottom: '40px', maxWidth: '600px', margin: '0 auto 45px' }}>
                                 Register now and get your Welcome Bonus to start wagering on your favourite teams and leagues with India's most trusted ID.
                             </p>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', fontSize: '20px', borderRadius: '50px' }}>
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', fontSize: '20px', borderRadius: '50px' }}>
                                 <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> GET YOUR ID ON WHATSAPP
                             </a>
                             <p style={{ color: '#555', fontSize: '12px', marginTop: '30px', textTransform: 'uppercase', letterSpacing: '1px' }}>

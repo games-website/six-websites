@@ -50,7 +50,7 @@ const LiveCricket = () => {
                         <p style={{ fontSize: '20px', color: '#aaa', maxWidth: '800px', margin: '0 auto 40px', lineHeight: '1.6' }}>
                             Experience every ball, boundary, and wicket with real-time updates. <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay</span> is your ultimate destination for live cricket exchange and betting.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
                             <i className="fas fa-satellite-dish" style={{ marginRight: '10px' }}></i> WATCH & BET LIVE NOW
                         </a>
                     </div>
@@ -105,7 +105,7 @@ const LiveCricket = () => {
                         }}>
                              <h2 style={{ fontSize: 'clamp(32px, 8vw, 48px)', fontWeight: '900', color: '#fff', marginBottom: '20px', textTransform: 'uppercase' }}>Ready for the Next Ball?</h2>
                              <p style={{ fontSize: '20px', color: 'var(--primary-color)', fontWeight: '800', marginBottom: '45px' }}>Get your verified Cricket ID and start winning in real-time.</p>
-                             <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '20px' }}>
+                             <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', borderRadius: '50px', fontSize: '20px' }}>
                                 <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> WHATSAPP US FOR YOUR ID
                             </a>
                         </div>

@@ -52,7 +52,7 @@ const HorseRaceBetting = () => {
                         <p style={{ fontSize: '20px', color: '#aaa', maxWidth: '800px', margin: '0 auto 45px', lineHeight: '1.7' }}>
                             Bet on your favorite horses across major international and domestic tracks. <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay</span> provides real-time updates and competitive odds for every race.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', borderRadius: '50px' }}>
                             <i className="fas fa-horse" style={{ marginRight: '10px' }}></i> START WINNING NOW
                         </a>
                     </div>
@@ -130,7 +130,7 @@ const HorseRaceBetting = () => {
                         }}>
                             <h2 style={{ fontSize: '42px', fontWeight: '900', marginBottom: '20px' }}>Get Your Racing ID Now</h2>
                             <p style={{ fontSize: '22px', fontWeight: '700', marginBottom: '40px', opacity: 0.8 }}>Join thousands of winners on India's most trusted exchange.</p>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ 
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{ 
                                 background: '#000', 
                                 color: '#fff', 
                                 padding: '20px 60px', 

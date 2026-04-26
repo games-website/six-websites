@@ -48,7 +48,7 @@ const FantasySports = () => {
                         <p style={{ fontSize: '20px', color: '#aaa', maxWidth: '800px', margin: '0 auto 40px' }}>
                             Create your dream team and compete for real cash prizes. <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay</span> brings you the ultimate fantasy gaming experience for Cricket, Football, and Kabaddi.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', fontSize: '18px' }}>
+                        <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '20px 60px', fontSize: '18px' }}>
                             <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> GET ID & PLAY NOW
                         </a>
                     </div>
@@ -120,7 +120,7 @@ const FantasySports = () => {
                                 <p style={{ color: '#888', marginBottom: '35px' }}>
                                     Join our Mega Contests with massive prize pools. Small entry fees, huge rewards! Turn your passion for sports into life-changing winnings.
                                 </p>
-                                <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '15px 40px' }}>
+                                <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '15px 40px' }}>
                                     JOIN MEGA CONTEST
                                 </a>
                             </div>
@@ -136,7 +136,7 @@ const FantasySports = () => {
                             <p style={{ color: '#aaa', fontSize: '20px', marginBottom: '40px', maxWidth: '600px', margin: '0 auto 40px' }}>
                                 Get your <span style={{ color: 'var(--primary-color)', fontWeight: 'bold' }}>Fairplay ID</span> and start your fantasy sports journey today!
                             </p>
-                            <a href="https://wa.me/12397991318?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', fontSize: '20px' }}>
+                            <a href="https://wa.me/6289183063?text=Hello%20Fairplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{ padding: '20px 60px', fontSize: '20px' }}>
                                 <i className="fab fa-whatsapp" style={{ marginRight: '10px' }}></i> GET YOUR ID ON WHATSAPP
                             </a>
                         </div>
