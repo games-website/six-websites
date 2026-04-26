@@ -24,7 +24,7 @@ const Rules = () => {
 
                 <div className="text-center mb-12">
                     <a
-                        href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                        href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block bg-gold-gradient hover:bg-brand-gold text-white font-extrabold py-4 px-10 rounded-full shadow-lg transition-transform hover:scale-105"
@@ -205,7 +205,7 @@ const Rules = () => {
                         Goldplay promotes responsible gambling. Gaming should be fun and entertaining, not a way to make money or solve financial problems.
                     </p>
                     <div className="flex flex-col md:flex-row gap-6 justify-center">
-                        <a href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-3 bg-[#25D366] hover:bg-[#1ebc51] text-white font-bold py-4 px-10 rounded-full shadow-lg transition-transform hover:scale-105">
+                        <a href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-3 bg-[#25D366] hover:bg-[#1ebc51] text-white font-bold py-4 px-10 rounded-full shadow-lg transition-transform hover:scale-105">
                             <MessageCircle size={24} /> Get The Goldplay ID
                         </a>
                     </div>

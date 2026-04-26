@@ -91,7 +91,7 @@ export default function AboutUs() {
                         </div>
                         <p className="text-gray-600 font-medium text-lg">
                             Goldplay WhatsApp Number <br />
-                            <a href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID." className="text-brand-gold font-black hover:underline mt-2 block text-2xl">+1 (640) 239-6837</a>
+                            <a href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID." className="text-brand-gold font-black hover:underline mt-2 block text-2xl">+1 (640) 239-6837</a>
                         </p>
                     </div>
 

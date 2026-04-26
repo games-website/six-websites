@@ -27,7 +27,7 @@ const HorseRaceBetting = () => {
                                 Experience the thrill of live horse racing from top tracks globally. Join <span className="text-brand-gold font-bold">Goldplay</span> for exclusive markets, competitive odds, and real-time updates.
                             </p>
                             <a
-                                href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                                href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-3 bg-gold-gradient text-white font-extrabold py-4 px-10 rounded-full shadow-[0_0_20px_rgba(191,149,63,0.4)] hover:scale-105 hover:shadow-[0_0_30px_rgba(191,149,63,0.6)] transition-all duration-300"
@@ -103,7 +103,7 @@ const HorseRaceBetting = () => {
                                     Our user-friendly interface ensures you never miss a race, no matter where you are.
                                 </p>
                                 <a
-                                    href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                                    href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-brand-gold font-bold text-lg hover:underline flex items-center gap-2"
@@ -124,7 +124,7 @@ const HorseRaceBetting = () => {
                             Get your <span className="text-brand-gold font-bold">Horse Race Betting ID</span> now and start winning on the world's most prestigious tracks.
                         </p>
                         <a
-                            href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                            href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-flex items-center gap-3 bg-[#25D366] hover:bg-[#1ebc51] text-white font-bold py-5 px-12 rounded-full shadow-[0_0_30px_rgba(37,211,102,0.4)] hover:shadow-[0_0_50px_rgba(37,211,102,0.6)] hover:scale-105 transition-all duration-300 text-xl"
