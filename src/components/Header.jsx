@@ -63,7 +63,7 @@ export default function Header() {
 
                 <div className="flex items-center gap-4">
                     <a
-                        href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                        href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-2 px-4 md:px-6 rounded-full text-xs md:text-base transition-transform transform hover:scale-105 whitespace-nowrap"
@@ -111,7 +111,7 @@ export default function Header() {
                         <Link to="/rules" className="block hover:text-yellow-400" onClick={() => setIsOpen(false)}>Rules</Link>
 
                         <a
-                            href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                            href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                             target="_blank"
                             rel="noopener noreferrer"
                             className="block hover:text-yellow-400"

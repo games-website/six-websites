@@ -27,7 +27,7 @@ const TennisBetting = () => {
                                 Join <span className="text-yellow-400 font-bold">Mahadev Book</span> for the ultimate tennis betting experience. From Wimbledon to the US Open, bet on every serve and volley with real-time odds.
                             </p>
                             <a
-                                href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                                href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-3 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black font-extrabold py-4 px-10 rounded-full shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:scale-105 hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] transition-all duration-300"
@@ -128,7 +128,7 @@ const TennisBetting = () => {
 
                         <div className="bg-gradient-to-r from-yellow-500 to-yellow-600 p-1 rounded-full inline-block">
                             <a
-                                href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                                href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="block bg-black hover:bg-[#15203a] text-white font-bold py-5 px-16 rounded-full transition-all duration-300 text-xl"

@@ -24,7 +24,7 @@ const Rules = () => {
 
                 <div className="text-center mb-12">
                     <a
-                        href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                        href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-8 rounded transition-colors"
@@ -229,7 +229,7 @@ const Rules = () => {
 
                     <p className="text-yellow-500 italic mb-4">Warning Signs of Problem Gambling</p>
                     <div className="text-right -mt-6">
-                        <a href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-6 rounded-full transition-colors">
+                        <a href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-6 rounded-full transition-colors">
                             <MessageCircle size={20} /> Get The Mahadev Book ID Now
                         </a>
                     </div>
@@ -304,7 +304,7 @@ const Rules = () => {
 
                 <div className="max-w-4xl mx-auto mb-10 text-gray-300 text-center">
                     <p className="mb-4"><strong>24/7 Customer Support Available:</strong></p>
-                    <p className="mb-2"><strong>WhatsApp:</strong> +12397991318</p>
+                    <p className="mb-2"><strong>WhatsApp:</strong> +6289183063</p>
                     <p className="mb-2"><strong>Live Chat:</strong> Available on website and app</p>
                     <p className="mb-2"><strong>Support Hours:</strong> 24 hours, 7 days a week</p>
 
@@ -351,7 +351,7 @@ const Rules = () => {
                     <p className="mt-2 text-center">Create Your Account on <strong className="text-yellow-500">Mahadev Book</strong> Platform.</p>
 
                     <div className="text-center mt-8">
-                        <a href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full transition-colors">
+                        <a href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full transition-colors">
                             <MessageCircle size={24} /> Get The Mahadev Book ID Now
                         </a>
                     </div>

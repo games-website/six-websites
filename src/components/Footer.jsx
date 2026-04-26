@@ -52,12 +52,12 @@ export default function Footer() {
                         <div className="flex items-start gap-3 mb-6 text-gray-400">
                             <Phone size={20} className="text-yellow-500 mt-1 flex-shrink-0" />
                             <div>
-                                <p className="text-sm">Phone: +12397991318</p>
+                                <p className="text-sm">Phone: +6289183063</p>
                             </div>
                         </div>
 
                         <a
-                            href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                            href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-block bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-3 px-8 rounded-lg transition-transform transform hover:scale-105"

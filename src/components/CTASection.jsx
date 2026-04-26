@@ -14,7 +14,7 @@ export default function CTASection() {
                     Get your trusted Betting ID instantly. Experience lightning-fast withdrawals, 24/7 support, and the best odds in the market.
                 </p>
                 <a
-                    href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                    href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-black text-yellow-500 border-2 border-transparent hover:border-black px-10 py-4 rounded-full font-bold text-lg transition-all duration-300 transform hover:scale-105 hover:bg-transparent hover:text-black shadow-xl"

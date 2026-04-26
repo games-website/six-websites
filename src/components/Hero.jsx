@@ -24,7 +24,7 @@ export default function Hero() {
 
                     <div className="flex flex-col sm:flex-row gap-4">
                         <a
-                            href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                            href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center justify-center gap-2 bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-4 px-8 rounded-full text-lg transition-transform hover:scale-105 shadow-[0_0_20px_rgba(234,179,8,0.4)]"
@@ -32,7 +32,7 @@ export default function Hero() {
                             Get Your ID Now <ArrowRight size={20} />
                         </a>
                         <a
-                            href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
+                            href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID."
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center justify-center gap-2 border-2 border-white hover:border-yellow-500 hover:text-yellow-500 text-white font-bold py-4 px-8 rounded-full text-lg transition-colors"

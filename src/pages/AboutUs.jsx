@@ -113,7 +113,7 @@ export default function AboutUs() {
                             <h3 className="text-yellow-500 font-bold uppercase">Contact Details</h3>
                         </div>
                         <div className="text-white text-lg leading-loose">
-                            <p>Mahadev Book WhatsApp Number – <a href="https://wa.me/12397991318?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID." className="text-yellow-500 hover:underline">+12397991318</a></p>
+                            <p>Mahadev Book WhatsApp Number – <a href="https://wa.me/6289183063?text=Hello%20Mahadevbook%2C%20I%20want%20to%20get%20my%20ID." className="text-yellow-500 hover:underline">+6289183063</a></p>
                         </div>
                     </div>
 

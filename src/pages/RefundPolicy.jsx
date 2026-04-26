@@ -73,7 +73,7 @@ export default function RefundPolicy() {
                     <p className="mb-4">Our dedicated support team is available to help with <strong>all refund-related queries</strong>:</p>
                     <ul className="space-y-2 mb-6">
                         <li><strong>Live Chat:</strong> <span className="text-yellow-500">Available on our website / Mahadev Book app</span></li>
-                        <li><strong>Customer Care Number:</strong> +12397991318</li>
+                        <li><strong>Customer Care Number:</strong> +6289183063</li>
                     </ul>
                     <p>We strive to resolve all requests <strong>quickly and transparently</strong> so you can continue enjoying your gaming experience with <strong>peace of mind</strong>.</p>
                 </div>
