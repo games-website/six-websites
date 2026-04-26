@@ -27,7 +27,7 @@ export default function Hero() {
 
                         <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                             <a
-                                href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                                href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center justify-center gap-2 bg-gold-gradient hover:opacity-90 text-white font-extrabold py-4 px-10 rounded-full text-lg transition-all hover:scale-105 shadow-xl shadow-brand-gold/20"

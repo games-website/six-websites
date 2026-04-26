@@ -34,7 +34,7 @@ export default function Footer() {
                             ].map(({ Icon, label }, index) => (
                                 <a
                                     key={index}
-                                    href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                                    href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-gray-500 hover:bg-gold-gradient hover:text-white shadow-sm transition-all duration-300"
@@ -117,7 +117,7 @@ export default function Footer() {
 
                 <div className="fixed bottom-6 right-6 z-50">
                     <a
-                        href="https://wa.me/12397991318?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                        href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2 bg-[#25D366] hover:bg-[#1ebc51] text-white font-black py-4 px-8 rounded-full text-base shadow-2xl hover:shadow-[#25D366]/40 transition-all transform hover:scale-110 active:scale-95 group"
