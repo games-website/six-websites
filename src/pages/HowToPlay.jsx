@@ -48,7 +48,7 @@ const HowToPlay = () => {
                 <p style={{ color: '#ccc', lineHeight: '1.8', fontSize: '16px', marginTop: '20px', marginBottom: '30px' }}>
                     <span style={{ color: '#eab308' }}>Myleasers</span> is a trusted platform for online sports betting and casino games. Whether you enjoy betting on cricket, football, or trying your luck in casino games like slots and poker, Myleasers makes online gaming easy, secure, and fun. This guide will show you how to start and enjoy the platform responsibly.
                 </p>
-                <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                     backgroundColor: '#8B8000',
                     color: '#fff',
                     padding: '12px 30px',

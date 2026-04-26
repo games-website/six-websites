@@ -30,7 +30,7 @@ const Deposit = () => {
                     </div>
                 </div>
                 <div class="center-btn mt-40">
-                    <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-black-gold"><i class="fab fa-whatsapp"></i> Deposit Now and Start Playing!</a>
+                    <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-black-gold"><i class="fab fa-whatsapp"></i> Deposit Now and Start Playing!</a>
                 </div>
             </div>
         </section>

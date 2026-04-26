@@ -10,10 +10,10 @@ const RightSidebar = () => {
                 <h3 className="text-2xl font-black text-black mb-2">DOWNLOAD APP</h3>
                 <p className="text-black/80 text-sm mb-6">Get the fastest betting experience on your mobile. Available for Android & iOS.</p>
                 <div className="space-y-3">
-                    <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="w-full bg-black text-white font-bold py-3 rounded flex items-center justify-center gap-2 border border-black hover:bg-gray-900 transition-colors">
+                    <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="w-full bg-black text-white font-bold py-3 rounded flex items-center justify-center gap-2 border border-black hover:bg-gray-900 transition-colors">
                         <span className="text-xl">🤖</span> Android APK
                     </a>
-                    <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="w-full bg-white text-black font-bold py-3 rounded flex items-center justify-center gap-2 border border-white hover:bg-gray-100 transition-colors">
+                    <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="w-full bg-white text-black font-bold py-3 rounded flex items-center justify-center gap-2 border border-white hover:bg-gray-100 transition-colors">
                         <span className="text-xl">🍎</span> iOS App
                     </a>
                 </div>

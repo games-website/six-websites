@@ -17,7 +17,7 @@ const CustomerCare = () => {
                         <div className="text-xs text-gray-400">Instant response in 2 mins</div>
                     </div>
                 </div>
-                <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:bg-green-500/10 p-2 rounded-lg transition-colors">
+                <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:bg-green-500/10 p-2 rounded-lg transition-colors">
                     <div className="w-10 h-10 bg-green-500/20 rounded-full flex items-center justify-center text-green-400">
                         <Phone className="w-5 h-5" />
                     </div>

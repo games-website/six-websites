@@ -44,7 +44,7 @@ const LiveCricketBetting = () => {
                             At <span style={{ color: '#eab308' }}>Myleasers</span>, we bring the excitement of cricket directly to your fingertips. Whether it’s <strong>T20 leagues, IPL matches, or international ODIs</strong>, our platform allows you to place live bets in real-time and enjoy a seamless online betting experience. With a <span style={{ color: '#eab308' }}>Myleasers ID</span>, you can instantly access our trusted sports betting system and start betting safely and securely.
                         </p>
 
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                             background: 'linear-gradient(to right, #1e90ff, #00bfff)',
                             color: '#fff',
                             padding: '15px 30px',

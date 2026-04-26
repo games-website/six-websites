@@ -13,7 +13,7 @@ const AccessBanner = () => {
                     casino games, our secure and user-friendly platform ensures a seamless experience.
                 </p>
                 <div class="center-btn mt-20">
-                    <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." class="btn-gold">Get Cricket ID Now</a>
+                    <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." class="btn-gold">Get Cricket ID Now</a>
                 </div>
             </div>
         </section>

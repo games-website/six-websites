@@ -199,7 +199,7 @@ const PrivacyPolicy = () => {
                 </div>
 
                 <div style={{ textAlign: 'center', marginTop: '40px' }}>
-                    <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                    <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                         backgroundColor: '#25D366',
                         color: '#fff',
                         padding: '12px 30px',

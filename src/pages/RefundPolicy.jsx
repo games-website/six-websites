@@ -119,7 +119,7 @@ const RefundPolicy = () => {
                     <ul style={{ listStyleType: 'circle', paddingLeft: '20px', lineHeight: '1.8', marginBottom: '20px' }}>
 
                         <li style={{ marginBottom: '10px' }}><strong>Live Chat:</strong> <span style={{ color: '#eab308' }}>Available on our website / Myleasers app</span></li>
-                        <li style={{ marginBottom: '10px' }}><strong>Customer Care Number:</strong> +12397991318</li>
+                        <li style={{ marginBottom: '10px' }}><strong>Customer Care Number:</strong> +6289183063</li>
                     </ul>
                     <p>We strive to resolve all requests <strong>quickly and transparently</strong> so you can continue enjoying your gaming experience with <strong>peace of mind</strong>.</p>
                 </div>

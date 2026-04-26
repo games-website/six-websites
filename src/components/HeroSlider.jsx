@@ -26,7 +26,7 @@ const HeroSlider = () => {
 
     return (
         <div className="relative h-48 md:h-80 rounded-xl overflow-hidden mb-6 shadow-2xl shadow-black/50 group">
-            <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className={`absolute inset-0 bg-gradient-to-r ${b.color} transition-all duration-700 ease-in-out flex flex-col justify-center items-center text-center p-6 banner-transition`}>
+            <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className={`absolute inset-0 bg-gradient-to-r ${b.color} transition-all duration-700 ease-in-out flex flex-col justify-center items-center text-center p-6 banner-transition`}>
                 <div className="absolute inset-0 opacity-30 mix-blend-overlay" style={{ backgroundImage: "url('https://www.transparenttextures.com/patterns/carbon-fibre.png')" }}></div>
                 <h2 className={`text-4xl md:text-6xl font-black text-white drop-shadow-lg mb-2 transform transition-all duration-700 italic ${fade ? 'opacity-100' : 'opacity-0'}`}>
                     {b.text}

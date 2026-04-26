@@ -12,7 +12,7 @@ const MobileApp = () => {
                         <p style={{ marginTop: '20px' }}>Elevate your betting experience with the Myleasers Mobile App!
                             Designed for on-the-go convenience, our app lets you place bets, track live scores, and manage
                             your account from anywhere.</p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." class="btn-gold mt-20"><i class="fab fa-android"></i> Download App Now</a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." class="btn-gold mt-20"><i class="fab fa-android"></i> Download App Now</a>
                     </div>
                     <div class="image-content">
                         <img src="/images/mobile-app.png" alt="Myleasers Mobile App" class="reveal" />

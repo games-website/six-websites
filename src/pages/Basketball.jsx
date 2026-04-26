@@ -20,7 +20,7 @@ const Basketball = () => {
                 <div className="container">
                     <h1 className="hero-title reveal">Basketball Betting</h1>
                     <p className="hero-subtitle reveal">Dunk into the action. Best odds on NBA, EuroLeague, and more.</p>
-                    <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="btn-gold reveal">GET YOUR BASKETBALL ID</a>
+                    <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="btn-gold reveal">GET YOUR BASKETBALL ID</a>
                 </div>
             </section>
 
@@ -52,7 +52,7 @@ const Basketball = () => {
                     <h2 className="reveal">Make Your Move</h2>
                     <p className="reveal">Register now and get exclusive access to our basketball betting markets.</p>
                     <div className="cta-buttons reveal">
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="btn-gold large">GET ID NOW</a>
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="btn-gold large">GET ID NOW</a>
                         <Link to="/services" className="btn-outline-black large">View All Sports</Link>
                     </div>
                 </div>

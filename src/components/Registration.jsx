@@ -23,7 +23,7 @@ const Registration = () => {
                             <li>Once verified, you can <strong>log in</strong> and start betting on cricket and other games
                                 instantly.</li>
                         </ul>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-black-gold">
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" class="btn-black-gold">
                             <i class="fab fa-whatsapp"></i> SignUp Now
                         </a>
                     </div>

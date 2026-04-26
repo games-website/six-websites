@@ -58,7 +58,7 @@ const Cricket = () => {
                             <br /><br />
                             <strong>Action:</strong> Sign up now and start winning with Myleasers Cricket Betting!
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                             background: 'linear-gradient(to right, #1e90ff, #00bfff)',
                             color: '#fff',
                             padding: '15px 30px',
@@ -147,7 +147,7 @@ const Cricket = () => {
                             <li style={{ marginBottom: '10px' }}>Allow installation from unknown sources (Android only).</li>
                             <li>Open the app and <strong>log in or create your ID</strong> to start betting.</li>
                         </ol>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                             background: 'linear-gradient(to right, #1e90ff, #00bfff)',
                             color: '#fff',
                             padding: '12px 25px',
@@ -225,7 +225,7 @@ const Cricket = () => {
                     </div>
 
                     <div style={{ textAlign: 'center', marginTop: '60px' }}>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                             backgroundColor: '#25D366',
                             color: '#fff',
                             padding: '15px 40px',

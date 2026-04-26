@@ -58,7 +58,7 @@ const RulesRegulations = () => {
                 </p>
 
                 <div style={{ textAlign: 'center', marginBottom: '40px' }}>
-                    <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="btn-gold" style={{
+                    <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="btn-gold" style={{
                         backgroundColor: '#8B8000',
                         color: '#fff',
                         padding: '10px 30px',
@@ -284,7 +284,7 @@ const RulesRegulations = () => {
 
                     <p style={{ color: '#eab308', fontStyle: 'italic', marginBottom: '15px' }}>Warning Signs of Problem Gambling</p>
                     <div style={{ textAlign: 'right', marginTop: '-20px' }}>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{
                             backgroundColor: '#25D366',
                             color: '#fff',
                             padding: '10px 20px',
@@ -406,7 +406,7 @@ const RulesRegulations = () => {
 
                 <div className="policy-content" style={{ maxWidth: '900px', margin: '0 auto 40px auto' }}>
                     <p style={{ marginBottom: '15px' }}><strong>24/7 Customer Support Available:</strong></p>
-                    <p style={{ marginBottom: '10px' }}><i className="fab fa-whatsapp"></i> <strong>WhatsApp:</strong> +12397991318</p>
+                    <p style={{ marginBottom: '10px' }}><i className="fab fa-whatsapp"></i> <strong>WhatsApp:</strong> +6289183063</p>
                     <p style={{ marginBottom: '10px' }}><i className="fas fa-comments"></i> <strong>Live Chat:</strong> Available on website and app</p>
                     <p style={{ marginBottom: '10px' }}><i className="fas fa-clock"></i> <strong>Support Hours:</strong> 24 hours, 7 days a week</p>
 
@@ -480,7 +480,7 @@ const RulesRegulations = () => {
                     <p style={{ marginTop: '10px' }}>Create Your Account on <strong style={{ color: '#eab308' }}>Myleasers Book</strong> Platform.</p>
 
                     <div style={{ textAlign: 'right', marginTop: '20px' }}>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{
                             backgroundColor: '#25D366',
                             color: '#fff',
                             padding: '10px 20px',

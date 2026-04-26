@@ -58,7 +58,7 @@ const Football = () => {
                         <p style={{ lineHeight: '1.6', marginBottom: '30px', color: '#ccc' }}>
                             Welcome to <span style={{ color: '#eab308' }}>Myleasers</span>, India’s trusted platform for football betting enthusiasts. Whether you’re passionate about the English Premier League, La Liga, UEFA Champions League, or the Indian Super League, our comprehensive betting platform brings you closer to the action with competitive odds and real-time match updates.
                         </p>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                             background: 'linear-gradient(to right, #1e90ff, #00bfff)',
                             color: '#fff',
                             padding: '15px 30px',
@@ -238,7 +238,7 @@ const Football = () => {
 
             { }
             <div style={{ position: 'fixed', bottom: '20px', right: '20px', zIndex: '1000' }}>
-                <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
+                <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" style={{
                     backgroundColor: '#25D366',
                     color: '#fff',
                     padding: '12px 30px',

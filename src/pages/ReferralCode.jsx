@@ -73,7 +73,7 @@ const ReferralCode = () => {
                         <li><strong>Share your code</strong> with friends or on social platforms.</li>
                     </ol>
                     <div style={{ textAlign: 'right', marginTop: '20px' }}>
-                        <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{
+                        <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." target="_blank" rel="noopener noreferrer" className="btn-whatsapp" style={{
                             backgroundColor: '#25D366',
                             color: '#fff',
                             padding: '10px 20px',

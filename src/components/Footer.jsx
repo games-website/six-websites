@@ -21,7 +21,7 @@ const Footer = () => {
                             Myleasers.com is the official domain for India's premium sports exchange. We offer widest range of markets for Cricket, Tennis, Football and Horse Racing along with 100+ Live Casino Tables.
                         </p>
                         <div className="flex gap-4">
-                            <a href="https://wa.me/12397991318?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="bg-green-600 hover:bg-green-700 text-white text-xs font-bold px-4 py-2 rounded-full flex items-center gap-2 transition-all">
+                            <a href="https://wa.me/6289183063?text=Hello%20Myleasers%2C%20I%20want%20to%20get%20my%20ID." className="bg-green-600 hover:bg-green-700 text-white text-xs font-bold px-4 py-2 rounded-full flex items-center gap-2 transition-all">
                                 <MessageCircle className="w-4 h-4" /> WhatsApp Support
                             </a>
                         </div>
