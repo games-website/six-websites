@@ -68,7 +68,7 @@ const Disclaimer = () => {
                     </p>
 
                     <a
-                        href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                        href="https://wa.me/9288689683?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-3 bg-[#25D366] hover:bg-[#1ebc51] text-white font-extrabold py-5 px-12 rounded-full shadow-[0_0_20px_rgba(37,211,102,0.4)] hover:scale-105 transition-all duration-300 text-lg"

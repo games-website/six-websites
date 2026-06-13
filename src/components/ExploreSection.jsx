@@ -25,7 +25,7 @@ export default function ExploreSection() {
 
                 <div className="mt-12">
                     <a
-                        href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                        href="https://wa.me/9288689683?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block bg-gold-gradient hover:opacity-90 text-white font-bold py-4 px-10 rounded-lg text-lg transition-all shadow-lg shadow-brand-gold/30 hover:shadow-brand-gold/50 hover:-translate-y-1"

@@ -27,7 +27,7 @@ const FantasySports = () => {
                                 Create your dream team and compete for real cash prizes. <span className="text-brand-gold font-bold">Goldplay</span> brings you the ultimate fantasy gaming experience for Cricket, Football, and Kabaddi.
                             </p>
                             <a
-                                href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                                href="https://wa.me/9288689683?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-3 bg-gold-gradient text-white font-extrabold py-4 px-10 rounded-full shadow-[0_0_20px_rgba(191,149,63,0.4)] hover:scale-105 hover:shadow-[0_0_30px_rgba(191,149,63,0.6)] transition-all duration-300"
@@ -103,7 +103,7 @@ const FantasySports = () => {
                                     Join our Mega Contests with massive prize pools. Small entry fees, huge rewards!
                                 </p>
                                 <a
-                                    href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                                    href="https://wa.me/9288689683?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="inline-block bg-gold-gradient text-white font-bold py-3 px-8 rounded-full hover:bg-brand-gold transition-colors shadow-md"
@@ -124,7 +124,7 @@ const FantasySports = () => {
                             Get your <span className="text-brand-gold font-bold">Goldplay ID</span> and start your fantasy sports journey today!
                         </p>
                         <a
-                            href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                            href="https://wa.me/9288689683?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-flex items-center gap-3 bg-[#25D366] hover:bg-[#1ebc51] text-white font-bold py-5 px-12 rounded-full shadow-[0_0_30px_rgba(37,211,102,0.4)] hover:shadow-[0_0_50px_rgba(37,211,102,0.6)] hover:scale-105 transition-all duration-300 text-xl"

@@ -26,7 +26,7 @@ const HowToPlay = () => {
                     </p>
 
                     <a
-                        href="https://wa.me/6289183063?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
+                        href="https://wa.me/9288689683?text=Hello%20Goldplay%2C%20I%20want%20to%20get%20my%20ID."
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-3 bg-gold-gradient hover:bg-brand-gold text-white font-bold py-4 px-10 rounded-full shadow-lg transition-transform hover:scale-105"

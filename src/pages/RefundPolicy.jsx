@@ -84,7 +84,7 @@ export default function RefundPolicy() {
                         </div>
                         <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm">
                             <strong className="text-gray-900 block mb-2 uppercase text-xs tracking-widest">Customer Care</strong>
-                            <p className="text-brand-gold font-bold">+1 (640) 239-6837</p>
+                            <p className="text-brand-gold font-bold">+92 88689 683</p>
                         </div>
                     </div>
                     <p className="mt-8">We strive to resolve all requests <strong>quickly and transparently</strong> so you can continue enjoying your gaming experience with <strong>peace of mind</strong>.</p>
